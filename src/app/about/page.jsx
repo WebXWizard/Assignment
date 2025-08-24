@@ -145,51 +145,51 @@ const About = () => {
         </div>
       </section>
 
-        {/* Our Mission and Vision Section */}
-        <section className="py-12 bg-white font-[sans-serif]">
-          <div className="max-w-6xl mx-auto px-4 text-center">
-            <h2 className="text-3xl sm:text-4xl font-bold text-green-800 mb-8">
-              🎯 Our Mission & Vision
-            </h2>
+      {/* Our Mission and Vision Section */}
+      <section className="py-12 bg-white font-[sans-serif]">
+        <div className="max-w-6xl mx-auto px-4 text-center">
+          <h2 className="text-3xl sm:text-4xl font-bold text-green-800 mb-8">
+            🎯 Our Mission & Vision
+          </h2>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
-              {/* Mission */}
-              <div className="bg-green-50 p-6 rounded-2xl shadow-md hover:shadow-xl transition">
-                <div className="flex items-center justify-center mb-4 text-4xl">
-                  🌱
-                </div>
-                <h3 className="text-3xl font-semibold text-green-700 mb-2">
-                  Our Mission
-                </h3>
-                <p className="text-gray-700  text-lg">
-                  To provide safe, natural, and effective herbal products and
-                  Ayurvedic remedies that promote holistic health and wellness for
-                  individuals seeking nature-inspired solutions.
-                </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
+            {/* Mission */}
+            <div className="bg-green-50 p-6 rounded-2xl shadow-md hover:shadow-xl transition">
+              <div className="flex items-center justify-center mb-4 text-4xl">
+                🌱
               </div>
+              <h3 className="text-3xl font-semibold text-green-700 mb-2">
+                Our Mission
+              </h3>
+              <p className="text-gray-700  text-lg">
+                To provide safe, natural, and effective herbal products and
+                Ayurvedic remedies that promote holistic health and wellness for
+                individuals seeking nature-inspired solutions.
+              </p>
+            </div>
 
-              {/* Vision */}
-              <div className="bg-green-50 p-6 rounded-2xl shadow-md hover:shadow-xl transition">
-                <div className="flex items-center justify-center mb-4 text-4xl">
-                  🌿
-                </div>
-                <h3 className="text-3xl font-semibold text-green-700 mb-2">
-                  Our Vision
-                </h3>
-                <p className="text-gray-700 text-lg">
-                  To become a trusted leader in herbal wellness by delivering 100%
-                  organic, sustainable, and authentic products, helping people
-                  live healthier and balanced lives naturally.
-                </p>
+            {/* Vision */}
+            <div className="bg-green-50 p-6 rounded-2xl shadow-md hover:shadow-xl transition">
+              <div className="flex items-center justify-center mb-4 text-4xl">
+                🌿
               </div>
+              <h3 className="text-3xl font-semibold text-green-700 mb-2">
+                Our Vision
+              </h3>
+              <p className="text-gray-700 text-lg">
+                To become a trusted leader in herbal wellness by delivering 100%
+                organic, sustainable, and authentic products, helping people
+                live healthier and balanced lives naturally.
+              </p>
             </div>
           </div>
-        </section>
+        </div>
+      </section>
 
       {/* Why Choose Us Section */}
       <section className="py-12 bg-gradient-to-r from-green-50 via-green-100 to-green-50 font-[sans-serif]">
         <div className="max-w-8xl mx-auto px-4 text-center">
-          <h2 className="text-5xl lg:text-5xl sm:text-3xl font-bold text-green-800 mb-8">
+          <h2 className="lg:text-5xl sm:text-3xl font-bold text-green-800 mb-8">
             🌱 “Herbal care, the natural way.” ✅
           </h2>
           {/* Masonry Cards */}
