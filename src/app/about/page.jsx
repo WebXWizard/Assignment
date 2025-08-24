@@ -189,7 +189,7 @@ const About = () => {
       {/* Why Choose Us Section */}
       <section className="py-12 bg-gradient-to-r from-green-50 via-green-100 to-green-50 font-[sans-serif]">
         <div className="max-w-8xl mx-auto px-4 text-center">
-          <h2 className="lg:text-5xl sm:text-3xl font-bold text-green-800 mb-8">
+          <h2 className="lg:text-5xl sm:text-4xl font-bold text-green-800 mb-8">
             🌱 “Herbal care, the natural way.” ✅
           </h2>
           {/* Masonry Cards */}
